@@ -1,2 +1,2 @@
-# -Learning-Basic-Web-Programming
+# Learning Basic Web Programming
  This is a project for graduating beginner class Dicoding
